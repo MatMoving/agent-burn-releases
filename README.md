@@ -22,12 +22,13 @@ Agent Burn lit l'usage de vos outils de code IA **sur votre PC** et vous montre 
   - un message du type *« La limite sera atteinte vers mer. 14 08:53. Restez sous 13,8 %/jour. »*
 - 🧾 **L'historique de votre forfait Codex** (gratuit, Plus, Pro…) avec l'usage de chaque période.
 - 🔔 **Une icône dans la zone de notification** : coût du jour et pourcentage restant d'un coup d'œil.
-- 🔄 **Des mises à jour intégrées** : un bouton « Rechercher une mise à jour » dans l'application.
+- 🔄 **Actualisation automatique** toutes les 2 minutes, et des mises à jour intégrées : un bouton « Rechercher une mise à jour » dans l'application.
 
 | Outil suivi | Coûts et tokens | Limites en direct |
 |---|---|---|
 | **Claude Code** | ✅ | ✅ après connexion (voir plus bas) |
 | **Codex** (OpenAI) | ✅ | ✅ si Codex est connecté à votre compte ChatGPT |
+| **Antigravity** | ✅ | — |
 
 ## Installation
 
@@ -61,13 +62,13 @@ Cliquez sur **« Rechercher une mise à jour »** en bas à gauche :
 ## Ce qui n'est pas pris en charge
 
 - **ChatGPT dans le navigateur** : seul **Codex** est suivi, pas vos conversations ChatGPT.
-- **Cursor**, **Gemini CLI** et **Antigravity** : détectés quand ils sont installés, mais leur usage ne peut pas être calculé pour l'instant.
+- **Cursor** et **Gemini CLI** : détectés quand ils sont installés, mais leur usage ne peut pas être calculé pour l'instant.
 - Windows uniquement (une application existe séparément pour Mac).
 
 ## Crédits et licence
 
 Agent Burn pour Windows s'appuie sur le projet open source [**Agent Burn**](https://github.com/Melvynx/agent-burn) de Melvynx (licence MIT), lui-même issu de [ccusage](https://github.com/ryoppippi/ccusage) de ryoppippi. Le moteur de calcul est le leur ; l'application Windows et son interface sont une réécriture.
 
-Voir [LICENSE](LICENSE) pour la mention de licence du projet d'origine.
+Voir [LICENSE](LICENSE) et [THIRD-PARTY-LICENSES.txt](THIRD-PARTY-LICENSES.txt) pour les mentions de licence.
 
 Projet indépendant, **non affilié** à Anthropic ni à OpenAI. « Claude » est une marque d'Anthropic ; « ChatGPT » et « Codex » sont des marques d'OpenAI.
