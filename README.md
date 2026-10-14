@@ -22,6 +22,7 @@ Agent Burn lit l'usage de vos outils de code IA **sur votre PC** et vous montre 
   - un message du type *« La limite sera atteinte vers mer. 14 08:53. Restez sous 13,8 %/jour. »*
 - 🧾 **L'historique de votre forfait Codex** (gratuit, Plus, Pro…) avec l'usage de chaque période.
 - 🔔 **Une icône dans la zone de notification** : coût du jour et pourcentage restant d'un coup d'œil.
+- 🎨 **Thème clair, sombre ou automatique**, intervalle d'actualisation réglable, notifications optionnelles quand il reste moins de 20 %, fenêtre dont la taille et la position sont mémorisées.
 - 🔄 **Actualisation automatique** toutes les 2 minutes, et des mises à jour intégrées : un bouton « Rechercher une mise à jour » dans l'application.
 
 | Outil suivi | Coûts et tokens | Limites en direct |
