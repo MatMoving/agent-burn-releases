@@ -15,21 +15,24 @@
 Agent Burn lit l'usage de vos outils de code IA **sur votre PC** et vous montre :
 
 - 💸 **Combien vous consommez**, en équivalent API (aux tarifs publics) : par jour, semaine ou mois, par outil et par modèle.
-- 📉 **Vos limites d'abonnement en direct** (session de 5 h et limite hebdomadaire pour Claude, limite de votre forfait pour Codex), avec :
+- 📉 **Vos limites d'abonnement en direct** (session de 5 h, limite hebdomadaire et **quota Fable** pour Claude ; session et semaine pour Codex ; quotas par modèle pour Antigravity), avec :
   - le pourcentage restant,
   - une **ligne de rythme régulier à ne pas dépasser**,
   - un **code couleur** : vert si vous êtes en avance, rouge si vous êtes en retard,
   - un message du type *« La limite sera atteinte vers mer. 14 08:53. Restez sous 13,8 %/jour. »*
 - 🧾 **L'historique de votre forfait Codex** (gratuit, Plus, Pro…) avec l'usage de chaque période.
 - 🔔 **Une icône dans la zone de notification** : coût du jour et pourcentage restant d'un coup d'œil.
-- 🎨 **Thème clair, sombre ou automatique**, intervalle d'actualisation réglable, notifications optionnelles quand il reste moins de 20 %, fenêtre dont la taille et la position sont mémorisées.
+- 🧭 **Une vue d'ensemble** avec une carte par abonnement, la dépense du jour comparée à la veille, la répartition par outil et le détail par modèle.
+- 💎 **La valeur de votre abonnement** : ce que votre usage coûterait à l'API, comparé au prix de votre forfait.
+- 🎨 **Thème clair, sombre ou automatique**, couleur d'accent au choix, outils masquables, intervalle d'actualisation réglable, notifications optionnelles avec seuil au choix, fenêtre dont la taille et la position sont mémorisées.
+- ⌨️ **Raccourcis clavier**, copie des dépenses au format CSV, et un bouton « Copier le diagnostic » pour demander de l'aide.
 - 🔄 **Actualisation automatique** toutes les 2 minutes, et des mises à jour intégrées : un bouton « Rechercher une mise à jour » dans l'application.
 
 | Outil suivi | Coûts et tokens | Limites en direct |
 |---|---|---|
 | **Claude Code** | ✅ | ✅ après connexion (voir plus bas) |
 | **Codex** (OpenAI) | ✅ | ✅ si Codex est connecté à votre compte ChatGPT |
-| **Antigravity** | ✅ | — |
+| **Antigravity** | ✅ | ✅ quand Antigravity est ouvert |
 
 ## Installation
 
